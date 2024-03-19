@@ -11,7 +11,7 @@ import { MatIcon } from '@angular/material/icon';
     <h1>Oops!</h1>
     <h2>Something went wrong.</h2>
     <a mat-button color="primary" routerLink="/">
-      Take me
+      Take me home
       <mat-icon>home</mat-icon>
     </a>
   `,
